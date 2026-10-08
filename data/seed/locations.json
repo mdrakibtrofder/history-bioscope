@@ -1,0 +1,3131 @@
+[
+  {
+    "id": "loc-1",
+    "name": "Wari-Bateshwar, Narsingdi",
+    "lat": 24.083,
+    "lng": 90.833,
+    "country": "Bangladesh",
+    "region": "Dhaka Division",
+    "historicalTerritory": "Ancient Vanga",
+    "eventIds": [
+      "bd-wari-bateshwar"
+    ]
+  },
+  {
+    "id": "loc-2",
+    "name": "Mahasthangarh, Bogura",
+    "lat": 24.961,
+    "lng": 89.344,
+    "country": "Bangladesh",
+    "region": "Rajshahi Division",
+    "historicalTerritory": "Pundravardhana",
+    "eventIds": [
+      "bd-mahasthangarh"
+    ]
+  },
+  {
+    "id": "loc-3",
+    "name": "Karnasuvarna",
+    "lat": 24.08,
+    "lng": 88.18,
+    "country": "India",
+    "region": "West Bengal",
+    "historicalTerritory": "Gauda Kingdom",
+    "eventIds": [
+      "bd-shashanka"
+    ]
+  },
+  {
+    "id": "loc-4",
+    "name": "Gauda",
+    "lat": 24.87,
+    "lng": 88.13,
+    "country": "India",
+    "region": "Bengal",
+    "historicalTerritory": "Gauda",
+    "eventIds": [
+      "bd-matsyanyaya",
+      "bd-pala-founding"
+    ]
+  },
+  {
+    "id": "loc-5",
+    "name": "Mainamati, Cumilla",
+    "lat": 23.425,
+    "lng": 91.135,
+    "country": "Bangladesh",
+    "region": "Chattogram Division",
+    "historicalTerritory": "Samatata",
+    "eventIds": [
+      "bd-mainamati"
+    ]
+  },
+  {
+    "id": "loc-6",
+    "name": "Pundravardhana",
+    "lat": 24.961,
+    "lng": 89.344,
+    "country": "Bangladesh",
+    "region": "Rajshahi",
+    "historicalTerritory": "Pala Empire",
+    "eventIds": [
+      "bd-pala-founding"
+    ]
+  },
+  {
+    "id": "loc-7",
+    "name": "Vikramashila",
+    "lat": 25.324,
+    "lng": 87.285,
+    "country": "India",
+    "region": "Bihar",
+    "historicalTerritory": "Pala Empire",
+    "eventIds": [
+      "bd-dharmapala"
+    ]
+  },
+  {
+    "id": "loc-8",
+    "name": "Paharpur, Naogaon",
+    "lat": 25.031,
+    "lng": 88.977,
+    "country": "Bangladesh",
+    "region": "Rajshahi Division",
+    "historicalTerritory": "Pala Empire",
+    "eventIds": [
+      "bd-somapura"
+    ]
+  },
+  {
+    "id": "loc-9",
+    "name": "Munger",
+    "lat": 25.37,
+    "lng": 86.47,
+    "country": "India",
+    "region": "Bihar",
+    "historicalTerritory": "Pala Empire",
+    "eventIds": [
+      "bd-devapala"
+    ]
+  },
+  {
+    "id": "loc-10",
+    "name": "Bengal",
+    "lat": 23.8,
+    "lng": 90.3,
+    "country": "Bangladesh",
+    "region": "Bengal",
+    "historicalTerritory": "Pala Empire",
+    "eventIds": [
+      "bd-charyapada"
+    ]
+  },
+  {
+    "id": "loc-11",
+    "name": "Vikrampur, Munshiganj",
+    "lat": 23.55,
+    "lng": 90.53,
+    "country": "Bangladesh",
+    "region": "Dhaka Division",
+    "historicalTerritory": "Vanga-Samatata",
+    "eventIds": [
+      "bd-chandra"
+    ]
+  },
+  {
+    "id": "loc-12",
+    "name": "Vajrayogini, Bikrampur",
+    "lat": 23.53,
+    "lng": 90.47,
+    "country": "Bangladesh",
+    "region": "Dhaka Division",
+    "historicalTerritory": "Vanga",
+    "eventIds": [
+      "bd-atisha"
+    ]
+  },
+  {
+    "id": "loc-13",
+    "name": "Lhasa (Nyethang)",
+    "lat": 29.65,
+    "lng": 91.1,
+    "country": "China",
+    "region": "Tibet",
+    "historicalTerritory": "Tibet",
+    "eventIds": [
+      "bd-atisha"
+    ]
+  },
+  {
+    "id": "loc-14",
+    "name": "Vikrampur",
+    "lat": 23.55,
+    "lng": 90.53,
+    "country": "Bangladesh",
+    "region": "Dhaka Division",
+    "historicalTerritory": "Sena Kingdom",
+    "eventIds": [
+      "bd-sena-rise"
+    ]
+  },
+  {
+    "id": "loc-15",
+    "name": "Nabadwip",
+    "lat": 23.41,
+    "lng": 88.37,
+    "country": "India",
+    "region": "West Bengal",
+    "historicalTerritory": "Sena Kingdom",
+    "eventIds": [
+      "bd-sena-rise",
+      "bd-lakshmana-sena"
+    ]
+  },
+  {
+    "id": "loc-16",
+    "name": "Nabadwip (Nadia)",
+    "lat": 23.41,
+    "lng": 88.37,
+    "country": "India",
+    "region": "West Bengal",
+    "historicalTerritory": "Sena Kingdom",
+    "eventIds": [
+      "bd-bakhtiyar"
+    ]
+  },
+  {
+    "id": "loc-17",
+    "name": "Lakhnauti (Gaur)",
+    "lat": 24.87,
+    "lng": 88.13,
+    "country": "India",
+    "region": "West Bengal",
+    "historicalTerritory": "Delhi Sultanate",
+    "eventIds": [
+      "bd-bakhtiyar"
+    ]
+  },
+  {
+    "id": "loc-18",
+    "name": "Sylhet",
+    "lat": 24.899,
+    "lng": 91.872,
+    "country": "Bangladesh",
+    "region": "Sylhet Division",
+    "historicalTerritory": "Gour Kingdom",
+    "eventIds": [
+      "bd-shah-jalal",
+      "bd-ibn-battuta"
+    ]
+  },
+  {
+    "id": "loc-19",
+    "name": "Sonargaon",
+    "lat": 23.647,
+    "lng": 90.598,
+    "country": "Bangladesh",
+    "region": "Dhaka Division",
+    "historicalTerritory": "Bengal",
+    "eventIds": [
+      "bd-ibn-battuta",
+      "bd-ilyas-shahi",
+      "bd-ghiyasuddin",
+      "bd-baro-bhuiyan",
+      "bd-muslin"
+    ]
+  },
+  {
+    "id": "loc-20",
+    "name": "Pandua",
+    "lat": 25.133,
+    "lng": 88.16,
+    "country": "India",
+    "region": "West Bengal",
+    "historicalTerritory": "Bengal Sultanate",
+    "eventIds": [
+      "bd-ilyas-shahi",
+      "bd-adina"
+    ]
+  },
+  {
+    "id": "loc-21",
+    "name": "Bagerhat",
+    "lat": 22.674,
+    "lng": 89.742,
+    "country": "Bangladesh",
+    "region": "Khulna Division",
+    "historicalTerritory": "Bengal Sultanate",
+    "eventIds": [
+      "bd-khan-jahan"
+    ]
+  },
+  {
+    "id": "loc-22",
+    "name": "Gaur",
+    "lat": 24.87,
+    "lng": 88.13,
+    "country": "India",
+    "region": "West Bengal",
+    "historicalTerritory": "Bengal Sultanate",
+    "eventIds": [
+      "bd-hussain-shahi",
+      "bd-sher-shah"
+    ]
+  },
+  {
+    "id": "loc-23",
+    "name": "Chittagong",
+    "lat": 22.336,
+    "lng": 91.832,
+    "country": "Bangladesh",
+    "region": "Chattogram Division",
+    "historicalTerritory": "Bengal Sultanate / Arakan",
+    "eventIds": [
+      "bd-portuguese",
+      "bd-shaista-khan",
+      "wd-zheng-he"
+    ]
+  },
+  {
+    "id": "loc-24",
+    "name": "Rajmahal",
+    "lat": 25.05,
+    "lng": 87.84,
+    "country": "India",
+    "region": "Jharkhand",
+    "historicalTerritory": "Karrani Sultanate",
+    "eventIds": [
+      "bd-rajmahal"
+    ]
+  },
+  {
+    "id": "loc-25",
+    "name": "Dhaka",
+    "lat": 23.711,
+    "lng": 90.407,
+    "country": "Bangladesh",
+    "region": "Dhaka Division",
+    "historicalTerritory": "Bengal Subah",
+    "eventIds": [
+      "bd-dhaka-capital",
+      "bd-muslin",
+      "bd-partition-1905",
+      "bd-partition-1947",
+      "bd-united-front",
+      "bd-six-point",
+      "bd-agartala",
+      "bd-election-1970",
+      "bd-sectors",
+      "bd-constitution",
+      "bd-zia",
+      "bd-ershad",
+      "bd-2024",
+      "is-modern-world"
+    ]
+  },
+  {
+    "id": "loc-26",
+    "name": "Bara Katra, Old Dhaka",
+    "lat": 23.715,
+    "lng": 90.398,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "Bengal Subah",
+    "eventIds": [
+      "bd-bara-katra"
+    ]
+  },
+  {
+    "id": "loc-27",
+    "name": "Lalbagh Fort, Dhaka",
+    "lat": 23.719,
+    "lng": 90.388,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "Bengal Subah",
+    "eventIds": [
+      "bd-shaista-khan"
+    ]
+  },
+  {
+    "id": "loc-28",
+    "name": "Murshidabad",
+    "lat": 24.18,
+    "lng": 88.27,
+    "country": "India",
+    "region": "West Bengal",
+    "historicalTerritory": "Bengal Subah",
+    "eventIds": [
+      "bd-murshid-quli",
+      "bd-alivardi"
+    ]
+  },
+  {
+    "id": "loc-29",
+    "name": "Calcutta (Kolkata)",
+    "lat": 22.572,
+    "lng": 88.364,
+    "country": "India",
+    "region": "West Bengal",
+    "historicalTerritory": "Bengal Subah",
+    "eventIds": [
+      "bd-eic-calcutta"
+    ]
+  },
+  {
+    "id": "loc-30",
+    "name": "Palashi",
+    "lat": 23.8,
+    "lng": 88.25,
+    "country": "India",
+    "region": "West Bengal",
+    "historicalTerritory": "Nawabs of Bengal",
+    "eventIds": [
+      "bd-plassey"
+    ]
+  },
+  {
+    "id": "loc-31",
+    "name": "Buxar",
+    "lat": 25.56,
+    "lng": 83.98,
+    "country": "India",
+    "region": "Bihar",
+    "historicalTerritory": "Mughal Empire",
+    "eventIds": [
+      "bd-buxar"
+    ]
+  },
+  {
+    "id": "loc-32",
+    "name": "Bengal",
+    "lat": 23.8,
+    "lng": 89,
+    "country": "Bangladesh",
+    "region": "Bengal",
+    "historicalTerritory": "Company Bengal",
+    "eventIds": [
+      "bd-famine-1770",
+      "bd-famine-1943"
+    ]
+  },
+  {
+    "id": "loc-33",
+    "name": "Calcutta",
+    "lat": 22.572,
+    "lng": 88.364,
+    "country": "India",
+    "region": "West Bengal",
+    "historicalTerritory": "Bengal Presidency",
+    "eventIds": [
+      "bd-permanent-settlement",
+      "bd-bengal-renaissance",
+      "bd-nazrul"
+    ]
+  },
+  {
+    "id": "loc-34",
+    "name": "Narkelberia",
+    "lat": 22.85,
+    "lng": 88.75,
+    "country": "India",
+    "region": "West Bengal",
+    "historicalTerritory": "Bengal Presidency",
+    "eventIds": [
+      "bd-faraizi"
+    ]
+  },
+  {
+    "id": "loc-35",
+    "name": "Faridpur",
+    "lat": 23.607,
+    "lng": 89.84,
+    "country": "Bangladesh",
+    "region": "Dhaka Division",
+    "historicalTerritory": "Bengal Presidency",
+    "eventIds": [
+      "bd-faraizi"
+    ]
+  },
+  {
+    "id": "loc-36",
+    "name": "Shilaidaha, Kushtia",
+    "lat": 23.916,
+    "lng": 89.22,
+    "country": "Bangladesh",
+    "region": "Khulna Division",
+    "historicalTerritory": "Bengal Presidency",
+    "eventIds": [
+      "bd-bengal-renaissance"
+    ]
+  },
+  {
+    "id": "loc-37",
+    "name": "Barrackpore",
+    "lat": 22.76,
+    "lng": 88.37,
+    "country": "India",
+    "region": "West Bengal",
+    "historicalTerritory": "Bengal Presidency",
+    "eventIds": [
+      "bd-1857"
+    ]
+  },
+  {
+    "id": "loc-38",
+    "name": "Bahadur Shah Park, Dhaka",
+    "lat": 23.708,
+    "lng": 90.413,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "Bengal Presidency",
+    "eventIds": [
+      "bd-1857"
+    ]
+  },
+  {
+    "id": "loc-39",
+    "name": "Ahsan Manzil, Dhaka",
+    "lat": 23.708,
+    "lng": 90.406,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "Eastern Bengal and Assam",
+    "eventIds": [
+      "bd-muslim-league"
+    ]
+  },
+  {
+    "id": "loc-40",
+    "name": "University of Dhaka",
+    "lat": 23.734,
+    "lng": 90.392,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "Bengal Presidency",
+    "eventIds": [
+      "bd-du-1921"
+    ]
+  },
+  {
+    "id": "loc-41",
+    "name": "Lahore",
+    "lat": 31.592,
+    "lng": 74.31,
+    "country": "Pakistan",
+    "region": "Punjab",
+    "historicalTerritory": "British Raj",
+    "eventIds": [
+      "bd-lahore-1940",
+      "bd-six-point"
+    ]
+  },
+  {
+    "id": "loc-42",
+    "name": "Karachi",
+    "lat": 24.86,
+    "lng": 67.01,
+    "country": "Pakistan",
+    "region": "Sindh",
+    "historicalTerritory": "Dominion of Pakistan",
+    "eventIds": [
+      "bd-partition-1947",
+      "is-pakistan-1947"
+    ]
+  },
+  {
+    "id": "loc-43",
+    "name": "Shaheed Minar, Dhaka",
+    "lat": 23.727,
+    "lng": 90.398,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "East Bengal",
+    "eventIds": [
+      "bd-language-movement"
+    ]
+  },
+  {
+    "id": "loc-44",
+    "name": "Rawalpindi",
+    "lat": 33.6,
+    "lng": 73.05,
+    "country": "Pakistan",
+    "region": "Punjab",
+    "historicalTerritory": "Pakistan",
+    "eventIds": [
+      "bd-ayub"
+    ]
+  },
+  {
+    "id": "loc-45",
+    "name": "Bhola",
+    "lat": 22.685,
+    "lng": 90.648,
+    "country": "Bangladesh",
+    "region": "Barishal Division",
+    "historicalTerritory": "East Pakistan",
+    "eventIds": [
+      "bd-cyclone-1970"
+    ]
+  },
+  {
+    "id": "loc-46",
+    "name": "Ramna Race Course (Suhrawardy Udyan)",
+    "lat": 23.733,
+    "lng": 90.397,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "East Pakistan",
+    "eventIds": [
+      "bd-7-march"
+    ]
+  },
+  {
+    "id": "loc-47",
+    "name": "Dhaka University",
+    "lat": 23.734,
+    "lng": 90.392,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "East Pakistan",
+    "eventIds": [
+      "bd-searchlight"
+    ]
+  },
+  {
+    "id": "loc-48",
+    "name": "Rajarbagh Police Lines",
+    "lat": 23.738,
+    "lng": 90.418,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "East Pakistan",
+    "eventIds": [
+      "bd-searchlight"
+    ]
+  },
+  {
+    "id": "loc-49",
+    "name": "Kalurghat Radio Station, Chattogram",
+    "lat": 22.4,
+    "lng": 91.89,
+    "country": "Bangladesh",
+    "region": "Chattogram",
+    "historicalTerritory": "East Pakistan",
+    "eventIds": [
+      "bd-declaration"
+    ]
+  },
+  {
+    "id": "loc-50",
+    "name": "Mujibnagar (Baidyanathtala), Meherpur",
+    "lat": 23.663,
+    "lng": 88.624,
+    "country": "Bangladesh",
+    "region": "Khulna Division",
+    "historicalTerritory": "Bangladesh (provisional)",
+    "eventIds": [
+      "bd-mujibnagar"
+    ]
+  },
+  {
+    "id": "loc-51",
+    "name": "Agartala",
+    "lat": 23.83,
+    "lng": 91.28,
+    "country": "India",
+    "region": "Tripura",
+    "historicalTerritory": "India",
+    "eventIds": [
+      "bd-sectors"
+    ]
+  },
+  {
+    "id": "loc-52",
+    "name": "Rayerbazar Martyred Intellectuals Memorial",
+    "lat": 23.744,
+    "lng": 90.358,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "East Pakistan",
+    "eventIds": [
+      "bd-intellectuals"
+    ]
+  },
+  {
+    "id": "loc-53",
+    "name": "Suhrawardy Udyan, Dhaka",
+    "lat": 23.733,
+    "lng": 90.397,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "Bangladesh",
+    "eventIds": [
+      "bd-victory"
+    ]
+  },
+  {
+    "id": "loc-54",
+    "name": "Tejgaon Airport, Dhaka",
+    "lat": 23.778,
+    "lng": 90.383,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "Bangladesh",
+    "eventIds": [
+      "bd-return-mujib"
+    ]
+  },
+  {
+    "id": "loc-55",
+    "name": "UN Headquarters, New York",
+    "lat": 40.749,
+    "lng": -73.968,
+    "country": "USA",
+    "region": "New York",
+    "historicalTerritory": "United Nations",
+    "eventIds": [
+      "bd-un-1974"
+    ]
+  },
+  {
+    "id": "loc-56",
+    "name": "Dhanmondi 32, Dhaka",
+    "lat": 23.749,
+    "lng": 90.377,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "Bangladesh",
+    "eventIds": [
+      "bd-1975"
+    ]
+  },
+  {
+    "id": "loc-57",
+    "name": "Chattogram Circuit House",
+    "lat": 22.343,
+    "lng": 91.82,
+    "country": "Bangladesh",
+    "region": "Chattogram",
+    "historicalTerritory": "Bangladesh",
+    "eventIds": [
+      "bd-zia"
+    ]
+  },
+  {
+    "id": "loc-58",
+    "name": "Jatiya Sangsad Bhaban, Dhaka",
+    "lat": 23.762,
+    "lng": 90.378,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "Bangladesh",
+    "eventIds": [
+      "bd-democracy-1991"
+    ]
+  },
+  {
+    "id": "loc-59",
+    "name": "Farakka Barrage",
+    "lat": 24.81,
+    "lng": 87.93,
+    "country": "India",
+    "region": "West Bengal",
+    "historicalTerritory": "India",
+    "eventIds": [
+      "bd-ganges-1996"
+    ]
+  },
+  {
+    "id": "loc-60",
+    "name": "Rangamati",
+    "lat": 22.65,
+    "lng": 92.17,
+    "country": "Bangladesh",
+    "region": "Chattogram Division",
+    "historicalTerritory": "Bangladesh",
+    "eventIds": [
+      "bd-ganges-1996"
+    ]
+  },
+  {
+    "id": "loc-61",
+    "name": "UNESCO, Paris",
+    "lat": 48.85,
+    "lng": 2.306,
+    "country": "France",
+    "region": "Paris",
+    "historicalTerritory": "UNESCO",
+    "eventIds": [
+      "bd-mother-language-day"
+    ]
+  },
+  {
+    "id": "loc-62",
+    "name": "Grameen Bank, Mirpur",
+    "lat": 23.789,
+    "lng": 90.356,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "Bangladesh",
+    "eventIds": [
+      "bd-grameen-nobel"
+    ]
+  },
+  {
+    "id": "loc-63",
+    "name": "Rana Plaza, Savar",
+    "lat": 23.846,
+    "lng": 90.258,
+    "country": "Bangladesh",
+    "region": "Dhaka Division",
+    "historicalTerritory": "Bangladesh",
+    "eventIds": [
+      "bd-rmg"
+    ]
+  },
+  {
+    "id": "loc-64",
+    "name": "Kutupalong, Cox’s Bazar",
+    "lat": 21.21,
+    "lng": 92.16,
+    "country": "Bangladesh",
+    "region": "Chattogram Division",
+    "historicalTerritory": "Bangladesh",
+    "eventIds": [
+      "bd-rohingya"
+    ]
+  },
+  {
+    "id": "loc-65",
+    "name": "Padma Bridge (Mawa)",
+    "lat": 23.45,
+    "lng": 90.26,
+    "country": "Bangladesh",
+    "region": "Dhaka Division",
+    "historicalTerritory": "Bangladesh",
+    "eventIds": [
+      "bd-padma"
+    ]
+  },
+  {
+    "id": "loc-66",
+    "name": "Begum Rokeya University, Rangpur",
+    "lat": 25.716,
+    "lng": 89.27,
+    "country": "Bangladesh",
+    "region": "Rangpur Division",
+    "historicalTerritory": "Bangladesh",
+    "eventIds": [
+      "bd-2024"
+    ]
+  },
+  {
+    "id": "loc-67",
+    "name": "Mount Arafat (traditional)",
+    "lat": 21.355,
+    "lng": 39.984,
+    "country": "Saudi Arabia",
+    "region": "Makkah",
+    "historicalTerritory": "Arabia",
+    "eventIds": [
+      "is-adam"
+    ]
+  },
+  {
+    "id": "loc-68",
+    "name": "Babylon / Egypt (traditions vary)",
+    "lat": 30,
+    "lng": 31.2,
+    "country": "Egypt",
+    "region": "Nile Valley",
+    "historicalTerritory": "Ancient Near East",
+    "eventIds": [
+      "is-idris"
+    ]
+  },
+  {
+    "id": "loc-69",
+    "name": "Mount Judi (traditional)",
+    "lat": 37.37,
+    "lng": 42.35,
+    "country": "Turkey",
+    "region": "Şırnak",
+    "historicalTerritory": "Upper Mesopotamia",
+    "eventIds": [
+      "is-nuh"
+    ]
+  },
+  {
+    "id": "loc-70",
+    "name": "Mesopotamia",
+    "lat": 32.5,
+    "lng": 44.4,
+    "country": "Iraq",
+    "region": "Mesopotamia",
+    "historicalTerritory": "Mesopotamia",
+    "eventIds": [
+      "is-nuh"
+    ]
+  },
+  {
+    "id": "loc-71",
+    "name": "Hadhramaut / al-Ahqaf (traditional)",
+    "lat": 16,
+    "lng": 49,
+    "country": "Yemen",
+    "region": "Hadhramaut",
+    "historicalTerritory": "South Arabia",
+    "eventIds": [
+      "is-hud"
+    ]
+  },
+  {
+    "id": "loc-72",
+    "name": "Al-Hijr (Hegra / Mada’in Salih)",
+    "lat": 26.79,
+    "lng": 37.95,
+    "country": "Saudi Arabia",
+    "region": "Al-Ula",
+    "historicalTerritory": "North-west Arabia",
+    "eventIds": [
+      "is-salih"
+    ]
+  },
+  {
+    "id": "loc-73",
+    "name": "Ur",
+    "lat": 30.963,
+    "lng": 46.103,
+    "country": "Iraq",
+    "region": "Dhi Qar",
+    "historicalTerritory": "Mesopotamia",
+    "eventIds": [
+      "is-ibrahim"
+    ]
+  },
+  {
+    "id": "loc-74",
+    "name": "Harran",
+    "lat": 36.87,
+    "lng": 39.03,
+    "country": "Turkey",
+    "region": "Şanlıurfa",
+    "historicalTerritory": "Upper Mesopotamia",
+    "eventIds": [
+      "is-ibrahim"
+    ]
+  },
+  {
+    "id": "loc-75",
+    "name": "Hebron (al-Khalil)",
+    "lat": 31.524,
+    "lng": 35.11,
+    "country": "Palestine",
+    "region": "West Bank",
+    "historicalTerritory": "Canaan",
+    "eventIds": [
+      "is-ibrahim",
+      "is-ishaq"
+    ]
+  },
+  {
+    "id": "loc-76",
+    "name": "Makkah",
+    "lat": 21.4225,
+    "lng": 39.8262,
+    "country": "Saudi Arabia",
+    "region": "Hejaz",
+    "historicalTerritory": "Arabia",
+    "eventIds": [
+      "is-ibrahim",
+      "is-ismail",
+      "is-muhammad-birth",
+      "is-khadijah",
+      "is-hijrah",
+      "is-fath-makkah",
+      "is-1400ah"
+    ]
+  },
+  {
+    "id": "loc-77",
+    "name": "Dead Sea region (traditional Sodom)",
+    "lat": 31.2,
+    "lng": 35.5,
+    "country": "Jordan",
+    "region": "Dead Sea",
+    "historicalTerritory": "Canaan",
+    "eventIds": [
+      "is-lut"
+    ]
+  },
+  {
+    "id": "loc-78",
+    "name": "Canaan",
+    "lat": 31.7,
+    "lng": 35.2,
+    "country": "Palestine",
+    "region": "Canaan",
+    "historicalTerritory": "Canaan",
+    "eventIds": [
+      "is-yaqub"
+    ]
+  },
+  {
+    "id": "loc-79",
+    "name": "Egypt (Nile Delta)",
+    "lat": 30.6,
+    "lng": 31.5,
+    "country": "Egypt",
+    "region": "Nile Delta",
+    "historicalTerritory": "Ancient Egypt",
+    "eventIds": [
+      "is-yusuf"
+    ]
+  },
+  {
+    "id": "loc-80",
+    "name": "Hauran (traditional)",
+    "lat": 32.8,
+    "lng": 36.2,
+    "country": "Syria",
+    "region": "Hauran",
+    "historicalTerritory": "Levant",
+    "eventIds": [
+      "is-ayyub"
+    ]
+  },
+  {
+    "id": "loc-81",
+    "name": "Madyan (al-Bad’)",
+    "lat": 28.48,
+    "lng": 34.98,
+    "country": "Saudi Arabia",
+    "region": "Tabuk",
+    "historicalTerritory": "North-west Arabia",
+    "eventIds": [
+      "is-shuayb"
+    ]
+  },
+  {
+    "id": "loc-82",
+    "name": "Egypt (Memphis)",
+    "lat": 29.85,
+    "lng": 31.25,
+    "country": "Egypt",
+    "region": "Nile Valley",
+    "historicalTerritory": "New Kingdom Egypt",
+    "eventIds": [
+      "is-musa"
+    ]
+  },
+  {
+    "id": "loc-83",
+    "name": "Mount Sinai (Jabal Musa)",
+    "lat": 28.539,
+    "lng": 33.975,
+    "country": "Egypt",
+    "region": "Sinai",
+    "historicalTerritory": "Sinai",
+    "eventIds": [
+      "is-musa"
+    ]
+  },
+  {
+    "id": "loc-84",
+    "name": "Jabal Harun, near Petra (traditional tomb)",
+    "lat": 30.317,
+    "lng": 35.407,
+    "country": "Jordan",
+    "region": "Ma’an",
+    "historicalTerritory": "Edom",
+    "eventIds": [
+      "is-harun"
+    ]
+  },
+  {
+    "id": "loc-85",
+    "name": "Al-Kifl (traditional shrine)",
+    "lat": 32.21,
+    "lng": 44.37,
+    "country": "Iraq",
+    "region": "Babil",
+    "historicalTerritory": "Mesopotamia",
+    "eventIds": [
+      "is-dhulkifl"
+    ]
+  },
+  {
+    "id": "loc-86",
+    "name": "Jerusalem (al-Quds)",
+    "lat": 31.776,
+    "lng": 35.234,
+    "country": "Palestine",
+    "region": "Jerusalem",
+    "historicalTerritory": "Kingdom of Israel",
+    "eventIds": [
+      "is-dawud",
+      "is-sulayman",
+      "is-zakariya"
+    ]
+  },
+  {
+    "id": "loc-87",
+    "name": "Marib (Saba’)",
+    "lat": 15.43,
+    "lng": 45.33,
+    "country": "Yemen",
+    "region": "Marib",
+    "historicalTerritory": "Kingdom of Saba",
+    "eventIds": [
+      "is-sulayman"
+    ]
+  },
+  {
+    "id": "loc-88",
+    "name": "Samaria / Baalbek (traditions vary)",
+    "lat": 32.28,
+    "lng": 35.19,
+    "country": "Palestine",
+    "region": "Samaria",
+    "historicalTerritory": "Kingdom of Israel",
+    "eventIds": [
+      "is-ilyas"
+    ]
+  },
+  {
+    "id": "loc-89",
+    "name": "Jericho / Samaria (traditional)",
+    "lat": 31.87,
+    "lng": 35.44,
+    "country": "Palestine",
+    "region": "Jordan Valley",
+    "historicalTerritory": "Kingdom of Israel",
+    "eventIds": [
+      "is-alyasa"
+    ]
+  },
+  {
+    "id": "loc-90",
+    "name": "Nineveh (Mosul)",
+    "lat": 36.36,
+    "lng": 43.15,
+    "country": "Iraq",
+    "region": "Nineveh",
+    "historicalTerritory": "Assyria",
+    "eventIds": [
+      "is-yunus"
+    ]
+  },
+  {
+    "id": "loc-91",
+    "name": "Jordan River (Bethany beyond the Jordan)",
+    "lat": 31.837,
+    "lng": 35.553,
+    "country": "Jordan",
+    "region": "Jordan Valley",
+    "historicalTerritory": "Roman Judea",
+    "eventIds": [
+      "is-yahya"
+    ]
+  },
+  {
+    "id": "loc-92",
+    "name": "Bethlehem",
+    "lat": 31.705,
+    "lng": 35.2,
+    "country": "Palestine",
+    "region": "West Bank",
+    "historicalTerritory": "Roman Judea",
+    "eventIds": [
+      "is-isa"
+    ]
+  },
+  {
+    "id": "loc-93",
+    "name": "Nazareth",
+    "lat": 32.7,
+    "lng": 35.3,
+    "country": "Israel",
+    "region": "Galilee",
+    "historicalTerritory": "Roman Galilee",
+    "eventIds": [
+      "is-isa"
+    ]
+  },
+  {
+    "id": "loc-94",
+    "name": "Jerusalem",
+    "lat": 31.776,
+    "lng": 35.234,
+    "country": "Palestine",
+    "region": "Jerusalem",
+    "historicalTerritory": "Roman Judea",
+    "eventIds": [
+      "is-isa",
+      "is-umar",
+      "is-saladin",
+      "wd-crusades"
+    ]
+  },
+  {
+    "id": "loc-95",
+    "name": "Jabal al-Nour (Cave of Hira)",
+    "lat": 21.4575,
+    "lng": 39.8583,
+    "country": "Saudi Arabia",
+    "region": "Makkah",
+    "historicalTerritory": "Arabia",
+    "eventIds": [
+      "is-revelation"
+    ]
+  },
+  {
+    "id": "loc-96",
+    "name": "Aksum",
+    "lat": 14.13,
+    "lng": 38.72,
+    "country": "Ethiopia",
+    "region": "Tigray",
+    "historicalTerritory": "Kingdom of Aksum",
+    "eventIds": [
+      "is-abyssinia"
+    ]
+  },
+  {
+    "id": "loc-97",
+    "name": "Masjid al-Aqsa, Jerusalem",
+    "lat": 31.776,
+    "lng": 35.236,
+    "country": "Palestine",
+    "region": "Jerusalem",
+    "historicalTerritory": "Byzantine Palestine",
+    "eventIds": [
+      "is-isra"
+    ]
+  },
+  {
+    "id": "loc-98",
+    "name": "Ta’if",
+    "lat": 21.27,
+    "lng": 40.42,
+    "country": "Saudi Arabia",
+    "region": "Makkah Province",
+    "historicalTerritory": "Arabia",
+    "eventIds": [
+      "is-isra"
+    ]
+  },
+  {
+    "id": "loc-99",
+    "name": "Cave of Thawr",
+    "lat": 21.377,
+    "lng": 39.85,
+    "country": "Saudi Arabia",
+    "region": "Makkah",
+    "historicalTerritory": "Arabia",
+    "eventIds": [
+      "is-hijrah"
+    ]
+  },
+  {
+    "id": "loc-100",
+    "name": "Quba",
+    "lat": 24.439,
+    "lng": 39.617,
+    "country": "Saudi Arabia",
+    "region": "Madinah",
+    "historicalTerritory": "Arabia",
+    "eventIds": [
+      "is-hijrah"
+    ]
+  },
+  {
+    "id": "loc-101",
+    "name": "Madinah",
+    "lat": 24.4672,
+    "lng": 39.6111,
+    "country": "Saudi Arabia",
+    "region": "Hejaz",
+    "historicalTerritory": "Yathrib",
+    "eventIds": [
+      "is-hijrah",
+      "is-trench",
+      "is-abu-bakr",
+      "is-umar",
+      "is-uthman"
+    ]
+  },
+  {
+    "id": "loc-102",
+    "name": "Badr",
+    "lat": 23.73,
+    "lng": 38.77,
+    "country": "Saudi Arabia",
+    "region": "Madinah Province",
+    "historicalTerritory": "Hejaz",
+    "eventIds": [
+      "is-badr"
+    ]
+  },
+  {
+    "id": "loc-103",
+    "name": "Mount Uhud",
+    "lat": 24.502,
+    "lng": 39.613,
+    "country": "Saudi Arabia",
+    "region": "Madinah",
+    "historicalTerritory": "Hejaz",
+    "eventIds": [
+      "is-uhud"
+    ]
+  },
+  {
+    "id": "loc-104",
+    "name": "Al-Hudaybiyyah (Shumaisi)",
+    "lat": 21.44,
+    "lng": 39.63,
+    "country": "Saudi Arabia",
+    "region": "Makkah",
+    "historicalTerritory": "Hejaz",
+    "eventIds": [
+      "is-hudaybiyyah"
+    ]
+  },
+  {
+    "id": "loc-105",
+    "name": "Mount Arafat",
+    "lat": 21.355,
+    "lng": 39.984,
+    "country": "Saudi Arabia",
+    "region": "Makkah",
+    "historicalTerritory": "Arabia",
+    "eventIds": [
+      "is-farewell"
+    ]
+  },
+  {
+    "id": "loc-106",
+    "name": "Masjid an-Nabawi, Madinah",
+    "lat": 24.4672,
+    "lng": 39.6111,
+    "country": "Saudi Arabia",
+    "region": "Madinah",
+    "historicalTerritory": "Arabia",
+    "eventIds": [
+      "is-farewell"
+    ]
+  },
+  {
+    "id": "loc-107",
+    "name": "Yarmouk River",
+    "lat": 32.8,
+    "lng": 35.95,
+    "country": "Jordan/Syria",
+    "region": "Yarmouk",
+    "historicalTerritory": "Byzantine Syria",
+    "eventIds": [
+      "is-yarmouk"
+    ]
+  },
+  {
+    "id": "loc-108",
+    "name": "Al-Qadisiyyah",
+    "lat": 31.7,
+    "lng": 44.45,
+    "country": "Iraq",
+    "region": "Al-Qadisiyyah",
+    "historicalTerritory": "Sasanian Iraq",
+    "eventIds": [
+      "is-qadisiyyah"
+    ]
+  },
+  {
+    "id": "loc-109",
+    "name": "Kufa",
+    "lat": 32.03,
+    "lng": 44.4,
+    "country": "Iraq",
+    "region": "Najaf",
+    "historicalTerritory": "Rashidun Caliphate",
+    "eventIds": [
+      "is-ali"
+    ]
+  },
+  {
+    "id": "loc-110",
+    "name": "Damascus",
+    "lat": 33.511,
+    "lng": 36.306,
+    "country": "Syria",
+    "region": "Damascus",
+    "historicalTerritory": "Umayyad Caliphate",
+    "eventIds": [
+      "is-umayyad"
+    ]
+  },
+  {
+    "id": "loc-111",
+    "name": "Karbala",
+    "lat": 32.616,
+    "lng": 44.033,
+    "country": "Iraq",
+    "region": "Karbala",
+    "historicalTerritory": "Umayyad Caliphate",
+    "eventIds": [
+      "is-karbala"
+    ]
+  },
+  {
+    "id": "loc-112",
+    "name": "Dome of the Rock, Jerusalem",
+    "lat": 31.778,
+    "lng": 35.235,
+    "country": "Palestine",
+    "region": "Jerusalem",
+    "historicalTerritory": "Umayyad Caliphate",
+    "eventIds": [
+      "is-dome"
+    ]
+  },
+  {
+    "id": "loc-113",
+    "name": "Gibraltar (Jabal Tariq)",
+    "lat": 36.14,
+    "lng": -5.35,
+    "country": "UK (Gibraltar)",
+    "region": "Iberia",
+    "historicalTerritory": "Visigothic Kingdom",
+    "eventIds": [
+      "is-andalus"
+    ]
+  },
+  {
+    "id": "loc-114",
+    "name": "Debal (near Karachi)",
+    "lat": 24.75,
+    "lng": 67.52,
+    "country": "Pakistan",
+    "region": "Sindh",
+    "historicalTerritory": "Kingdom of Sindh",
+    "eventIds": [
+      "is-sindh"
+    ]
+  },
+  {
+    "id": "loc-115",
+    "name": "Multan",
+    "lat": 30.2,
+    "lng": 71.47,
+    "country": "Pakistan",
+    "region": "Punjab",
+    "historicalTerritory": "Umayyad Caliphate",
+    "eventIds": [
+      "is-sindh"
+    ]
+  },
+  {
+    "id": "loc-116",
+    "name": "Baghdad (Round City)",
+    "lat": 33.315,
+    "lng": 44.366,
+    "country": "Iraq",
+    "region": "Baghdad",
+    "historicalTerritory": "Abbasid Caliphate",
+    "eventIds": [
+      "is-abbasid"
+    ]
+  },
+  {
+    "id": "loc-117",
+    "name": "Córdoba",
+    "lat": 37.879,
+    "lng": -4.779,
+    "country": "Spain",
+    "region": "Andalusia",
+    "historicalTerritory": "Emirate/Caliphate of Córdoba",
+    "eventIds": [
+      "is-cordoba",
+      "is-ibn-rushd"
+    ]
+  },
+  {
+    "id": "loc-118",
+    "name": "Al-Azhar, Cairo",
+    "lat": 30.046,
+    "lng": 31.263,
+    "country": "Egypt",
+    "region": "Cairo",
+    "historicalTerritory": "Fatimid Caliphate",
+    "eventIds": [
+      "is-fatimid-cairo"
+    ]
+  },
+  {
+    "id": "loc-119",
+    "name": "Malazgirt",
+    "lat": 39.14,
+    "lng": 42.54,
+    "country": "Turkey",
+    "region": "Muş",
+    "historicalTerritory": "Byzantine Armenia",
+    "eventIds": [
+      "is-manzikert"
+    ]
+  },
+  {
+    "id": "loc-120",
+    "name": "Horns of Hattin",
+    "lat": 32.8,
+    "lng": 35.45,
+    "country": "Israel",
+    "region": "Galilee",
+    "historicalTerritory": "Kingdom of Jerusalem",
+    "eventIds": [
+      "is-saladin"
+    ]
+  },
+  {
+    "id": "loc-121",
+    "name": "Baghdad",
+    "lat": 33.315,
+    "lng": 44.366,
+    "country": "Iraq",
+    "region": "Baghdad",
+    "historicalTerritory": "Abbasid Caliphate",
+    "eventIds": [
+      "is-baghdad-1258",
+      "is-house-of-wisdom",
+      "is-khwarizmi"
+    ]
+  },
+  {
+    "id": "loc-122",
+    "name": "Ain Jalut (Spring of Harod)",
+    "lat": 32.55,
+    "lng": 35.36,
+    "country": "Israel",
+    "region": "Jezreel Valley",
+    "historicalTerritory": "Mamluk Sultanate",
+    "eventIds": [
+      "is-ain-jalut"
+    ]
+  },
+  {
+    "id": "loc-123",
+    "name": "Khwarazm (Khiva)",
+    "lat": 41.38,
+    "lng": 60.36,
+    "country": "Uzbekistan",
+    "region": "Khorezm",
+    "historicalTerritory": "Abbasid Caliphate",
+    "eventIds": [
+      "is-khwarizmi"
+    ]
+  },
+  {
+    "id": "loc-124",
+    "name": "Fez",
+    "lat": 34.065,
+    "lng": -4.973,
+    "country": "Morocco",
+    "region": "Fès-Meknès",
+    "historicalTerritory": "Idrisid Morocco",
+    "eventIds": [
+      "is-qarawiyyin"
+    ]
+  },
+  {
+    "id": "loc-125",
+    "name": "Rayy",
+    "lat": 35.58,
+    "lng": 51.43,
+    "country": "Iran",
+    "region": "Tehran",
+    "historicalTerritory": "Abbasid Caliphate",
+    "eventIds": [
+      "is-razi"
+    ]
+  },
+  {
+    "id": "loc-126",
+    "name": "Cairo",
+    "lat": 30.044,
+    "lng": 31.236,
+    "country": "Egypt",
+    "region": "Cairo",
+    "historicalTerritory": "Fatimid Caliphate",
+    "eventIds": [
+      "is-ibn-haytham",
+      "is-mansa-musa",
+      "is-colonial"
+    ]
+  },
+  {
+    "id": "loc-127",
+    "name": "Bukhara",
+    "lat": 39.77,
+    "lng": 64.42,
+    "country": "Uzbekistan",
+    "region": "Bukhara",
+    "historicalTerritory": "Samanid Empire",
+    "eventIds": [
+      "is-ibn-sina"
+    ]
+  },
+  {
+    "id": "loc-128",
+    "name": "Hamadan",
+    "lat": 34.8,
+    "lng": 48.51,
+    "country": "Iran",
+    "region": "Hamadan",
+    "historicalTerritory": "Buyid Persia",
+    "eventIds": [
+      "is-ibn-sina"
+    ]
+  },
+  {
+    "id": "loc-129",
+    "name": "Ghazni",
+    "lat": 33.55,
+    "lng": 68.42,
+    "country": "Afghanistan",
+    "region": "Ghazni",
+    "historicalTerritory": "Ghaznavid Empire",
+    "eventIds": [
+      "is-biruni"
+    ]
+  },
+  {
+    "id": "loc-130",
+    "name": "Tus",
+    "lat": 36.48,
+    "lng": 59.52,
+    "country": "Iran",
+    "region": "Razavi Khorasan",
+    "historicalTerritory": "Seljuk Empire",
+    "eventIds": [
+      "is-ghazali"
+    ]
+  },
+  {
+    "id": "loc-131",
+    "name": "Nizamiyya, Baghdad",
+    "lat": 33.34,
+    "lng": 44.39,
+    "country": "Iraq",
+    "region": "Baghdad",
+    "historicalTerritory": "Seljuk Empire",
+    "eventIds": [
+      "is-ghazali"
+    ]
+  },
+  {
+    "id": "loc-132",
+    "name": "Siraf",
+    "lat": 27.66,
+    "lng": 52.34,
+    "country": "Iran",
+    "region": "Bushehr",
+    "historicalTerritory": "Abbasid Caliphate",
+    "eventIds": [
+      "is-indian-ocean"
+    ]
+  },
+  {
+    "id": "loc-133",
+    "name": "Kilwa Kisiwani",
+    "lat": -8.96,
+    "lng": 39.51,
+    "country": "Tanzania",
+    "region": "Swahili Coast",
+    "historicalTerritory": "Kilwa Sultanate",
+    "eventIds": [
+      "is-indian-ocean"
+    ]
+  },
+  {
+    "id": "loc-134",
+    "name": "Malacca",
+    "lat": 2.19,
+    "lng": 102.25,
+    "country": "Malaysia",
+    "region": "Malacca",
+    "historicalTerritory": "Malacca Sultanate",
+    "eventIds": [
+      "is-indian-ocean"
+    ]
+  },
+  {
+    "id": "loc-135",
+    "name": "Timbuktu",
+    "lat": 16.77,
+    "lng": -3,
+    "country": "Mali",
+    "region": "Tombouctou",
+    "historicalTerritory": "Mali Empire",
+    "eventIds": [
+      "is-mansa-musa"
+    ]
+  },
+  {
+    "id": "loc-136",
+    "name": "Tangier",
+    "lat": 35.77,
+    "lng": -5.8,
+    "country": "Morocco",
+    "region": "Tangier",
+    "historicalTerritory": "Marinid Sultanate",
+    "eventIds": [
+      "is-ibn-battuta"
+    ]
+  },
+  {
+    "id": "loc-137",
+    "name": "Delhi",
+    "lat": 28.65,
+    "lng": 77.23,
+    "country": "India",
+    "region": "Delhi",
+    "historicalTerritory": "Delhi Sultanate",
+    "eventIds": [
+      "is-ibn-battuta",
+      "is-colonial"
+    ]
+  },
+  {
+    "id": "loc-138",
+    "name": "Quanzhou",
+    "lat": 24.87,
+    "lng": 118.68,
+    "country": "China",
+    "region": "Fujian",
+    "historicalTerritory": "Yuan Dynasty",
+    "eventIds": [
+      "is-ibn-battuta"
+    ]
+  },
+  {
+    "id": "loc-139",
+    "name": "Tunis",
+    "lat": 36.8,
+    "lng": 10.18,
+    "country": "Tunisia",
+    "region": "Tunis",
+    "historicalTerritory": "Hafsid Sultanate",
+    "eventIds": [
+      "is-ibn-khaldun"
+    ]
+  },
+  {
+    "id": "loc-140",
+    "name": "Söğüt",
+    "lat": 40.02,
+    "lng": 30.18,
+    "country": "Turkey",
+    "region": "Bilecik",
+    "historicalTerritory": "Ottoman Beylik",
+    "eventIds": [
+      "is-ottoman-founding"
+    ]
+  },
+  {
+    "id": "loc-141",
+    "name": "Istanbul (Constantinople)",
+    "lat": 41.008,
+    "lng": 28.978,
+    "country": "Turkey",
+    "region": "Istanbul",
+    "historicalTerritory": "Byzantine Empire",
+    "eventIds": [
+      "is-constantinople"
+    ]
+  },
+  {
+    "id": "loc-142",
+    "name": "Alhambra, Granada",
+    "lat": 37.176,
+    "lng": -3.588,
+    "country": "Spain",
+    "region": "Andalusia",
+    "historicalTerritory": "Emirate of Granada",
+    "eventIds": [
+      "is-granada"
+    ]
+  },
+  {
+    "id": "loc-143",
+    "name": "Tabriz",
+    "lat": 38.08,
+    "lng": 46.29,
+    "country": "Iran",
+    "region": "East Azerbaijan",
+    "historicalTerritory": "Safavid Empire",
+    "eventIds": [
+      "is-safavid"
+    ]
+  },
+  {
+    "id": "loc-144",
+    "name": "Isfahan",
+    "lat": 32.657,
+    "lng": 51.677,
+    "country": "Iran",
+    "region": "Isfahan",
+    "historicalTerritory": "Safavid Empire",
+    "eventIds": [
+      "is-isfahan"
+    ]
+  },
+  {
+    "id": "loc-145",
+    "name": "Süleymaniye Mosque, Istanbul",
+    "lat": 41.016,
+    "lng": 28.964,
+    "country": "Turkey",
+    "region": "Istanbul",
+    "historicalTerritory": "Ottoman Empire",
+    "eventIds": [
+      "is-suleiman"
+    ]
+  },
+  {
+    "id": "loc-146",
+    "name": "Panipat",
+    "lat": 29.39,
+    "lng": 76.97,
+    "country": "India",
+    "region": "Haryana",
+    "historicalTerritory": "Delhi Sultanate",
+    "eventIds": [
+      "is-panipat"
+    ]
+  },
+  {
+    "id": "loc-147",
+    "name": "Fatehpur Sikri",
+    "lat": 27.094,
+    "lng": 77.661,
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "historicalTerritory": "Mughal Empire",
+    "eventIds": [
+      "is-akbar"
+    ]
+  },
+  {
+    "id": "loc-148",
+    "name": "Agra",
+    "lat": 27.18,
+    "lng": 78.02,
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "historicalTerritory": "Mughal Empire",
+    "eventIds": [
+      "is-akbar"
+    ]
+  },
+  {
+    "id": "loc-149",
+    "name": "Taj Mahal, Agra",
+    "lat": 27.175,
+    "lng": 78.042,
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "historicalTerritory": "Mughal Empire",
+    "eventIds": [
+      "is-taj"
+    ]
+  },
+  {
+    "id": "loc-150",
+    "name": "Aurangabad",
+    "lat": 19.88,
+    "lng": 75.34,
+    "country": "India",
+    "region": "Maharashtra",
+    "historicalTerritory": "Mughal Empire",
+    "eventIds": [
+      "is-aurangzeb"
+    ]
+  },
+  {
+    "id": "loc-151",
+    "name": "Vienna",
+    "lat": 48.208,
+    "lng": 16.373,
+    "country": "Austria",
+    "region": "Vienna",
+    "historicalTerritory": "Habsburg Monarchy",
+    "eventIds": [
+      "is-vienna"
+    ]
+  },
+  {
+    "id": "loc-152",
+    "name": "Algiers",
+    "lat": 36.75,
+    "lng": 3.06,
+    "country": "Algeria",
+    "region": "Algiers",
+    "historicalTerritory": "French Algeria",
+    "eventIds": [
+      "is-colonial",
+      "wd-decolonization"
+    ]
+  },
+  {
+    "id": "loc-153",
+    "name": "Ankara",
+    "lat": 39.93,
+    "lng": 32.85,
+    "country": "Turkey",
+    "region": "Ankara",
+    "historicalTerritory": "Republic of Turkey",
+    "eventIds": [
+      "is-caliphate-abolished"
+    ]
+  },
+  {
+    "id": "loc-154",
+    "name": "Riyadh",
+    "lat": 24.71,
+    "lng": 46.67,
+    "country": "Saudi Arabia",
+    "region": "Riyadh",
+    "historicalTerritory": "Saudi Arabia",
+    "eventIds": [
+      "is-saudi"
+    ]
+  },
+  {
+    "id": "loc-155",
+    "name": "Rabat",
+    "lat": 34.02,
+    "lng": -6.84,
+    "country": "Morocco",
+    "region": "Rabat",
+    "historicalTerritory": "Morocco",
+    "eventIds": [
+      "is-oic"
+    ]
+  },
+  {
+    "id": "loc-156",
+    "name": "Jeddah (HQ)",
+    "lat": 21.54,
+    "lng": 39.17,
+    "country": "Saudi Arabia",
+    "region": "Makkah Province",
+    "historicalTerritory": "Saudi Arabia",
+    "eventIds": [
+      "is-oic"
+    ]
+  },
+  {
+    "id": "loc-157",
+    "name": "Tehran",
+    "lat": 35.69,
+    "lng": 51.39,
+    "country": "Iran",
+    "region": "Tehran",
+    "historicalTerritory": "Iran",
+    "eventIds": [
+      "is-1400ah"
+    ]
+  },
+  {
+    "id": "loc-158",
+    "name": "Jeddah (Islamic Development Bank)",
+    "lat": 21.54,
+    "lng": 39.17,
+    "country": "Saudi Arabia",
+    "region": "Makkah Province",
+    "historicalTerritory": "Saudi Arabia",
+    "eventIds": [
+      "is-islamic-finance"
+    ]
+  },
+  {
+    "id": "loc-159",
+    "name": "Islami Bank Bangladesh, Dhaka",
+    "lat": 23.73,
+    "lng": 90.41,
+    "country": "Bangladesh",
+    "region": "Dhaka",
+    "historicalTerritory": "Bangladesh",
+    "eventIds": [
+      "is-islamic-finance"
+    ]
+  },
+  {
+    "id": "loc-160",
+    "name": "Jakarta",
+    "lat": -6.2,
+    "lng": 106.85,
+    "country": "Indonesia",
+    "region": "Java",
+    "historicalTerritory": "Indonesia",
+    "eventIds": [
+      "is-modern-world",
+      "wd-decolonization"
+    ]
+  },
+  {
+    "id": "loc-161",
+    "name": "Istanbul",
+    "lat": 41.008,
+    "lng": 28.978,
+    "country": "Turkey",
+    "region": "Istanbul",
+    "historicalTerritory": "Turkey",
+    "eventIds": [
+      "is-modern-world"
+    ]
+  },
+  {
+    "id": "loc-162",
+    "name": "Uruk",
+    "lat": 31.322,
+    "lng": 45.636,
+    "country": "Iraq",
+    "region": "Al-Muthanna",
+    "historicalTerritory": "Sumer",
+    "eventIds": [
+      "wd-writing"
+    ]
+  },
+  {
+    "id": "loc-163",
+    "name": "Memphis",
+    "lat": 29.844,
+    "lng": 31.25,
+    "country": "Egypt",
+    "region": "Giza",
+    "historicalTerritory": "Ancient Egypt",
+    "eventIds": [
+      "wd-egypt-unification"
+    ]
+  },
+  {
+    "id": "loc-164",
+    "name": "Mohenjo-daro",
+    "lat": 27.329,
+    "lng": 68.138,
+    "country": "Pakistan",
+    "region": "Sindh",
+    "historicalTerritory": "Indus Valley",
+    "eventIds": [
+      "wd-indus"
+    ]
+  },
+  {
+    "id": "loc-165",
+    "name": "Harappa",
+    "lat": 30.63,
+    "lng": 72.86,
+    "country": "Pakistan",
+    "region": "Punjab",
+    "historicalTerritory": "Indus Valley",
+    "eventIds": [
+      "wd-indus"
+    ]
+  },
+  {
+    "id": "loc-166",
+    "name": "Giza",
+    "lat": 29.979,
+    "lng": 31.134,
+    "country": "Egypt",
+    "region": "Giza",
+    "historicalTerritory": "Old Kingdom Egypt",
+    "eventIds": [
+      "wd-pyramid"
+    ]
+  },
+  {
+    "id": "loc-167",
+    "name": "Babylon",
+    "lat": 32.542,
+    "lng": 44.421,
+    "country": "Iraq",
+    "region": "Babil",
+    "historicalTerritory": "Babylonia",
+    "eventIds": [
+      "wd-hammurabi"
+    ]
+  },
+  {
+    "id": "loc-168",
+    "name": "Anyang (Yinxu)",
+    "lat": 36.12,
+    "lng": 114.31,
+    "country": "China",
+    "region": "Henan",
+    "historicalTerritory": "Shang Dynasty",
+    "eventIds": [
+      "wd-shang"
+    ]
+  },
+  {
+    "id": "loc-169",
+    "name": "Athens (Pnyx)",
+    "lat": 37.972,
+    "lng": 23.719,
+    "country": "Greece",
+    "region": "Attica",
+    "historicalTerritory": "Athens",
+    "eventIds": [
+      "wd-athens"
+    ]
+  },
+  {
+    "id": "loc-170",
+    "name": "Bodh Gaya",
+    "lat": 24.696,
+    "lng": 84.991,
+    "country": "India",
+    "region": "Bihar",
+    "historicalTerritory": "Magadha",
+    "eventIds": [
+      "wd-buddha"
+    ]
+  },
+  {
+    "id": "loc-171",
+    "name": "Lumbini",
+    "lat": 27.47,
+    "lng": 83.27,
+    "country": "Nepal",
+    "region": "Lumbini",
+    "historicalTerritory": "Shakya",
+    "eventIds": [
+      "wd-buddha"
+    ]
+  },
+  {
+    "id": "loc-172",
+    "name": "Qufu",
+    "lat": 35.6,
+    "lng": 116.99,
+    "country": "China",
+    "region": "Shandong",
+    "historicalTerritory": "State of Lu",
+    "eventIds": [
+      "wd-confucius"
+    ]
+  },
+  {
+    "id": "loc-173",
+    "name": "Pella",
+    "lat": 40.76,
+    "lng": 22.52,
+    "country": "Greece",
+    "region": "Macedonia",
+    "historicalTerritory": "Macedon",
+    "eventIds": [
+      "wd-alexander"
+    ]
+  },
+  {
+    "id": "loc-174",
+    "name": "Gaugamela",
+    "lat": 36.56,
+    "lng": 43.44,
+    "country": "Iraq",
+    "region": "Nineveh",
+    "historicalTerritory": "Achaemenid Empire",
+    "eventIds": [
+      "wd-alexander"
+    ]
+  },
+  {
+    "id": "loc-175",
+    "name": "Hydaspes (Jhelum)",
+    "lat": 32.93,
+    "lng": 73.73,
+    "country": "Pakistan",
+    "region": "Punjab",
+    "historicalTerritory": "Paurava",
+    "eventIds": [
+      "wd-alexander"
+    ]
+  },
+  {
+    "id": "loc-176",
+    "name": "Pataliputra (Patna)",
+    "lat": 25.61,
+    "lng": 85.14,
+    "country": "India",
+    "region": "Bihar",
+    "historicalTerritory": "Maurya Empire",
+    "eventIds": [
+      "wd-ashoka"
+    ]
+  },
+  {
+    "id": "loc-177",
+    "name": "Kalinga (Dhauli)",
+    "lat": 20.19,
+    "lng": 85.84,
+    "country": "India",
+    "region": "Odisha",
+    "historicalTerritory": "Kalinga",
+    "eventIds": [
+      "wd-ashoka"
+    ]
+  },
+  {
+    "id": "loc-178",
+    "name": "Xianyang",
+    "lat": 34.33,
+    "lng": 108.71,
+    "country": "China",
+    "region": "Shaanxi",
+    "historicalTerritory": "Qin Dynasty",
+    "eventIds": [
+      "wd-qin"
+    ]
+  },
+  {
+    "id": "loc-179",
+    "name": "Terracotta Army, Xi’an",
+    "lat": 34.385,
+    "lng": 109.278,
+    "country": "China",
+    "region": "Shaanxi",
+    "historicalTerritory": "Qin Dynasty",
+    "eventIds": [
+      "wd-qin"
+    ]
+  },
+  {
+    "id": "loc-180",
+    "name": "Rome (Forum)",
+    "lat": 41.892,
+    "lng": 12.485,
+    "country": "Italy",
+    "region": "Lazio",
+    "historicalTerritory": "Roman Republic",
+    "eventIds": [
+      "wd-rome-republic"
+    ]
+  },
+  {
+    "id": "loc-181",
+    "name": "Chang’an (Xi’an)",
+    "lat": 34.26,
+    "lng": 108.94,
+    "country": "China",
+    "region": "Shaanxi",
+    "historicalTerritory": "Han Dynasty",
+    "eventIds": [
+      "wd-silk-road",
+      "wd-tang"
+    ]
+  },
+  {
+    "id": "loc-182",
+    "name": "Samarkand",
+    "lat": 39.65,
+    "lng": 66.96,
+    "country": "Uzbekistan",
+    "region": "Samarkand",
+    "historicalTerritory": "Sogdiana",
+    "eventIds": [
+      "wd-silk-road"
+    ]
+  },
+  {
+    "id": "loc-183",
+    "name": "Ravenna",
+    "lat": 44.418,
+    "lng": 12.2,
+    "country": "Italy",
+    "region": "Emilia-Romagna",
+    "historicalTerritory": "Western Roman Empire",
+    "eventIds": [
+      "wd-rome-fall"
+    ]
+  },
+  {
+    "id": "loc-184",
+    "name": "Hagia Sophia, Istanbul",
+    "lat": 41.008,
+    "lng": 28.98,
+    "country": "Turkey",
+    "region": "Istanbul",
+    "historicalTerritory": "Byzantine Empire",
+    "eventIds": [
+      "wd-justinian"
+    ]
+  },
+  {
+    "id": "loc-185",
+    "name": "Aachen",
+    "lat": 50.775,
+    "lng": 6.084,
+    "country": "Germany",
+    "region": "North Rhine-Westphalia",
+    "historicalTerritory": "Carolingian Empire",
+    "eventIds": [
+      "wd-charlemagne"
+    ]
+  },
+  {
+    "id": "loc-186",
+    "name": "Rome",
+    "lat": 41.902,
+    "lng": 12.457,
+    "country": "Vatican",
+    "region": "Rome",
+    "historicalTerritory": "Papal States",
+    "eventIds": [
+      "wd-charlemagne"
+    ]
+  },
+  {
+    "id": "loc-187",
+    "name": "Lindisfarne",
+    "lat": 55.68,
+    "lng": -1.8,
+    "country": "UK",
+    "region": "Northumberland",
+    "historicalTerritory": "Northumbria",
+    "eventIds": [
+      "wd-vikings"
+    ]
+  },
+  {
+    "id": "loc-188",
+    "name": "Kaifeng",
+    "lat": 34.8,
+    "lng": 114.3,
+    "country": "China",
+    "region": "Henan",
+    "historicalTerritory": "Song Dynasty",
+    "eventIds": [
+      "wd-song"
+    ]
+  },
+  {
+    "id": "loc-189",
+    "name": "Hangzhou",
+    "lat": 30.27,
+    "lng": 120.15,
+    "country": "China",
+    "region": "Zhejiang",
+    "historicalTerritory": "Southern Song",
+    "eventIds": [
+      "wd-song"
+    ]
+  },
+  {
+    "id": "loc-190",
+    "name": "Acre",
+    "lat": 32.92,
+    "lng": 35.07,
+    "country": "Israel",
+    "region": "Northern District",
+    "historicalTerritory": "Kingdom of Jerusalem",
+    "eventIds": [
+      "wd-crusades"
+    ]
+  },
+  {
+    "id": "loc-191",
+    "name": "Karakorum",
+    "lat": 47.2,
+    "lng": 102.8,
+    "country": "Mongolia",
+    "region": "Övörkhangai",
+    "historicalTerritory": "Mongol Empire",
+    "eventIds": [
+      "wd-genghis"
+    ]
+  },
+  {
+    "id": "loc-192",
+    "name": "Runnymede",
+    "lat": 51.444,
+    "lng": -0.565,
+    "country": "UK",
+    "region": "Surrey",
+    "historicalTerritory": "Kingdom of England",
+    "eventIds": [
+      "wd-magna-carta"
+    ]
+  },
+  {
+    "id": "loc-193",
+    "name": "Caffa (Feodosia)",
+    "lat": 45.03,
+    "lng": 35.38,
+    "country": "Ukraine (Crimea)",
+    "region": "Crimea",
+    "historicalTerritory": "Golden Horde",
+    "eventIds": [
+      "wd-black-death"
+    ]
+  },
+  {
+    "id": "loc-194",
+    "name": "Florence",
+    "lat": 43.77,
+    "lng": 11.25,
+    "country": "Italy",
+    "region": "Tuscany",
+    "historicalTerritory": "Republic of Florence",
+    "eventIds": [
+      "wd-black-death"
+    ]
+  },
+  {
+    "id": "loc-195",
+    "name": "Nanjing",
+    "lat": 32.06,
+    "lng": 118.8,
+    "country": "China",
+    "region": "Jiangsu",
+    "historicalTerritory": "Ming Dynasty",
+    "eventIds": [
+      "wd-zheng-he"
+    ]
+  },
+  {
+    "id": "loc-196",
+    "name": "Calicut",
+    "lat": 11.25,
+    "lng": 75.78,
+    "country": "India",
+    "region": "Kerala",
+    "historicalTerritory": "Zamorin of Calicut",
+    "eventIds": [
+      "wd-zheng-he",
+      "wd-da-gama"
+    ]
+  },
+  {
+    "id": "loc-197",
+    "name": "Mainz",
+    "lat": 49.999,
+    "lng": 8.273,
+    "country": "Germany",
+    "region": "Rhineland-Palatinate",
+    "historicalTerritory": "Holy Roman Empire",
+    "eventIds": [
+      "wd-gutenberg"
+    ]
+  },
+  {
+    "id": "loc-198",
+    "name": "Palos de la Frontera",
+    "lat": 37.23,
+    "lng": -6.89,
+    "country": "Spain",
+    "region": "Andalusia",
+    "historicalTerritory": "Crown of Castile",
+    "eventIds": [
+      "wd-columbus"
+    ]
+  },
+  {
+    "id": "loc-199",
+    "name": "San Salvador Island",
+    "lat": 24.05,
+    "lng": -74.5,
+    "country": "Bahamas",
+    "region": "Caribbean",
+    "historicalTerritory": "Lucayan",
+    "eventIds": [
+      "wd-columbus"
+    ]
+  },
+  {
+    "id": "loc-200",
+    "name": "Lisbon",
+    "lat": 38.72,
+    "lng": -9.14,
+    "country": "Portugal",
+    "region": "Lisbon",
+    "historicalTerritory": "Kingdom of Portugal",
+    "eventIds": [
+      "wd-da-gama"
+    ]
+  },
+  {
+    "id": "loc-201",
+    "name": "Wittenberg",
+    "lat": 51.866,
+    "lng": 12.646,
+    "country": "Germany",
+    "region": "Saxony-Anhalt",
+    "historicalTerritory": "Holy Roman Empire",
+    "eventIds": [
+      "wd-reformation"
+    ]
+  },
+  {
+    "id": "loc-202",
+    "name": "Tenochtitlan (Mexico City)",
+    "lat": 19.435,
+    "lng": -99.133,
+    "country": "Mexico",
+    "region": "Mexico City",
+    "historicalTerritory": "Aztec Empire",
+    "eventIds": [
+      "wd-tenochtitlan"
+    ]
+  },
+  {
+    "id": "loc-203",
+    "name": "Cambridge",
+    "lat": 52.205,
+    "lng": 0.119,
+    "country": "UK",
+    "region": "Cambridgeshire",
+    "historicalTerritory": "Kingdom of England",
+    "eventIds": [
+      "wd-newton"
+    ]
+  },
+  {
+    "id": "loc-204",
+    "name": "Manchester",
+    "lat": 53.48,
+    "lng": -2.24,
+    "country": "UK",
+    "region": "Lancashire",
+    "historicalTerritory": "Great Britain",
+    "eventIds": [
+      "wd-industrial"
+    ]
+  },
+  {
+    "id": "loc-205",
+    "name": "Philadelphia",
+    "lat": 39.949,
+    "lng": -75.15,
+    "country": "USA",
+    "region": "Pennsylvania",
+    "historicalTerritory": "Thirteen Colonies",
+    "eventIds": [
+      "wd-american-rev"
+    ]
+  },
+  {
+    "id": "loc-206",
+    "name": "Bastille, Paris",
+    "lat": 48.853,
+    "lng": 2.369,
+    "country": "France",
+    "region": "Paris",
+    "historicalTerritory": "Kingdom of France",
+    "eventIds": [
+      "wd-french-rev"
+    ]
+  },
+  {
+    "id": "loc-207",
+    "name": "Kitty Hawk",
+    "lat": 36.019,
+    "lng": -75.668,
+    "country": "USA",
+    "region": "North Carolina",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-wright"
+    ]
+  },
+  {
+    "id": "loc-208",
+    "name": "Sarajevo",
+    "lat": 43.858,
+    "lng": 18.428,
+    "country": "Bosnia and Herzegovina",
+    "region": "Sarajevo",
+    "historicalTerritory": "Austria-Hungary",
+    "eventIds": [
+      "wd-ww1"
+    ]
+  },
+  {
+    "id": "loc-209",
+    "name": "Somme",
+    "lat": 50,
+    "lng": 2.7,
+    "country": "France",
+    "region": "Hauts-de-France",
+    "historicalTerritory": "France",
+    "eventIds": [
+      "wd-ww1"
+    ]
+  },
+  {
+    "id": "loc-210",
+    "name": "Gallipoli",
+    "lat": 40.23,
+    "lng": 26.28,
+    "country": "Turkey",
+    "region": "Çanakkale",
+    "historicalTerritory": "Ottoman Empire",
+    "eventIds": [
+      "wd-ww1"
+    ]
+  },
+  {
+    "id": "loc-211",
+    "name": "Petrograd (St Petersburg)",
+    "lat": 59.94,
+    "lng": 30.31,
+    "country": "Russia",
+    "region": "St Petersburg",
+    "historicalTerritory": "Russian Empire",
+    "eventIds": [
+      "wd-russian-rev"
+    ]
+  },
+  {
+    "id": "loc-212",
+    "name": "Bombay (Mumbai)",
+    "lat": 18.94,
+    "lng": 72.83,
+    "country": "India",
+    "region": "Maharashtra",
+    "historicalTerritory": "British Raj",
+    "eventIds": [
+      "wd-spanish-flu"
+    ]
+  },
+  {
+    "id": "loc-213",
+    "name": "Versailles",
+    "lat": 48.805,
+    "lng": 2.12,
+    "country": "France",
+    "region": "Île-de-France",
+    "historicalTerritory": "France",
+    "eventIds": [
+      "wd-versailles"
+    ]
+  },
+  {
+    "id": "loc-214",
+    "name": "Wall Street, New York",
+    "lat": 40.706,
+    "lng": -74.009,
+    "country": "USA",
+    "region": "New York",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-depression"
+    ]
+  },
+  {
+    "id": "loc-215",
+    "name": "Dandi",
+    "lat": 20.89,
+    "lng": 72.8,
+    "country": "India",
+    "region": "Gujarat",
+    "historicalTerritory": "British Raj",
+    "eventIds": [
+      "wd-salt-march"
+    ]
+  },
+  {
+    "id": "loc-216",
+    "name": "Westerplatte, Gdańsk",
+    "lat": 54.407,
+    "lng": 18.668,
+    "country": "Poland",
+    "region": "Pomerania",
+    "historicalTerritory": "Free City of Danzig",
+    "eventIds": [
+      "wd-ww2-start"
+    ]
+  },
+  {
+    "id": "loc-217",
+    "name": "Stalingrad (Volgograd)",
+    "lat": 48.708,
+    "lng": 44.513,
+    "country": "Russia",
+    "region": "Volgograd",
+    "historicalTerritory": "Soviet Union",
+    "eventIds": [
+      "wd-ww2-start"
+    ]
+  },
+  {
+    "id": "loc-218",
+    "name": "Pearl Harbor",
+    "lat": 21.365,
+    "lng": -157.95,
+    "country": "USA",
+    "region": "Hawaii",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-pearl-harbor"
+    ]
+  },
+  {
+    "id": "loc-219",
+    "name": "Imphal",
+    "lat": 24.82,
+    "lng": 93.94,
+    "country": "India",
+    "region": "Manipur",
+    "historicalTerritory": "British Raj",
+    "eventIds": [
+      "wd-pearl-harbor"
+    ]
+  },
+  {
+    "id": "loc-220",
+    "name": "Omaha Beach, Normandy",
+    "lat": 49.37,
+    "lng": -0.88,
+    "country": "France",
+    "region": "Normandy",
+    "historicalTerritory": "German-occupied France",
+    "eventIds": [
+      "wd-dday"
+    ]
+  },
+  {
+    "id": "loc-221",
+    "name": "Hiroshima",
+    "lat": 34.395,
+    "lng": 132.454,
+    "country": "Japan",
+    "region": "Hiroshima",
+    "historicalTerritory": "Empire of Japan",
+    "eventIds": [
+      "wd-hiroshima"
+    ]
+  },
+  {
+    "id": "loc-222",
+    "name": "Nagasaki",
+    "lat": 32.774,
+    "lng": 129.863,
+    "country": "Japan",
+    "region": "Nagasaki",
+    "historicalTerritory": "Empire of Japan",
+    "eventIds": [
+      "wd-hiroshima"
+    ]
+  },
+  {
+    "id": "loc-223",
+    "name": "San Francisco",
+    "lat": 37.78,
+    "lng": -122.42,
+    "country": "USA",
+    "region": "California",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-un-1945"
+    ]
+  },
+  {
+    "id": "loc-224",
+    "name": "Delhi",
+    "lat": 28.61,
+    "lng": 77.21,
+    "country": "India",
+    "region": "Delhi",
+    "historicalTerritory": "British Raj",
+    "eventIds": [
+      "wd-india-independence"
+    ]
+  },
+  {
+    "id": "loc-225",
+    "name": "Wagah",
+    "lat": 31.6,
+    "lng": 74.57,
+    "country": "India/Pakistan",
+    "region": "Punjab",
+    "historicalTerritory": "Radcliffe Line",
+    "eventIds": [
+      "wd-india-independence"
+    ]
+  },
+  {
+    "id": "loc-226",
+    "name": "Tiananmen, Beijing",
+    "lat": 39.905,
+    "lng": 116.391,
+    "country": "China",
+    "region": "Beijing",
+    "historicalTerritory": "China",
+    "eventIds": [
+      "wd-prc"
+    ]
+  },
+  {
+    "id": "loc-227",
+    "name": "Berlin",
+    "lat": 52.52,
+    "lng": 13.405,
+    "country": "Germany",
+    "region": "Berlin",
+    "historicalTerritory": "Divided Germany",
+    "eventIds": [
+      "wd-cold-war"
+    ]
+  },
+  {
+    "id": "loc-228",
+    "name": "Washington, D.C.",
+    "lat": 38.9,
+    "lng": -77.04,
+    "country": "USA",
+    "region": "DC",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-cold-war"
+    ]
+  },
+  {
+    "id": "loc-229",
+    "name": "Moscow",
+    "lat": 55.75,
+    "lng": 37.62,
+    "country": "Russia",
+    "region": "Moscow",
+    "historicalTerritory": "Soviet Union",
+    "eventIds": [
+      "wd-cold-war"
+    ]
+  },
+  {
+    "id": "loc-230",
+    "name": "Panmunjom (DMZ)",
+    "lat": 37.956,
+    "lng": 126.677,
+    "country": "Korea",
+    "region": "DMZ",
+    "historicalTerritory": "Korea",
+    "eventIds": [
+      "wd-korea"
+    ]
+  },
+  {
+    "id": "loc-231",
+    "name": "Baikonur Cosmodrome",
+    "lat": 45.92,
+    "lng": 63.34,
+    "country": "Kazakhstan",
+    "region": "Baikonur",
+    "historicalTerritory": "Soviet Union",
+    "eventIds": [
+      "wd-sputnik",
+      "wd-gagarin"
+    ]
+  },
+  {
+    "id": "loc-232",
+    "name": "Accra",
+    "lat": 5.55,
+    "lng": -0.2,
+    "country": "Ghana",
+    "region": "Greater Accra",
+    "historicalTerritory": "Gold Coast",
+    "eventIds": [
+      "wd-decolonization"
+    ]
+  },
+  {
+    "id": "loc-233",
+    "name": "Havana",
+    "lat": 23.11,
+    "lng": -82.37,
+    "country": "Cuba",
+    "region": "Havana",
+    "historicalTerritory": "Cuba",
+    "eventIds": [
+      "wd-cuban"
+    ]
+  },
+  {
+    "id": "loc-234",
+    "name": "Kennedy Space Center",
+    "lat": 28.573,
+    "lng": -80.649,
+    "country": "USA",
+    "region": "Florida",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-apollo"
+    ]
+  },
+  {
+    "id": "loc-235",
+    "name": "UCLA",
+    "lat": 34.069,
+    "lng": -118.445,
+    "country": "USA",
+    "region": "California",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-arpanet"
+    ]
+  },
+  {
+    "id": "loc-236",
+    "name": "Santa Clara",
+    "lat": 37.354,
+    "lng": -121.955,
+    "country": "USA",
+    "region": "California",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-microprocessor"
+    ]
+  },
+  {
+    "id": "loc-237",
+    "name": "Saigon (Ho Chi Minh City)",
+    "lat": 10.776,
+    "lng": 106.7,
+    "country": "Vietnam",
+    "region": "Ho Chi Minh City",
+    "historicalTerritory": "South Vietnam",
+    "eventIds": [
+      "wd-vietnam"
+    ]
+  },
+  {
+    "id": "loc-238",
+    "name": "Brandenburg Gate, Berlin",
+    "lat": 52.516,
+    "lng": 13.378,
+    "country": "Germany",
+    "region": "Berlin",
+    "historicalTerritory": "East Germany",
+    "eventIds": [
+      "wd-berlin-wall"
+    ]
+  },
+  {
+    "id": "loc-239",
+    "name": "Kremlin, Moscow",
+    "lat": 55.752,
+    "lng": 37.617,
+    "country": "Russia",
+    "region": "Moscow",
+    "historicalTerritory": "Soviet Union",
+    "eventIds": [
+      "wd-ussr"
+    ]
+  },
+  {
+    "id": "loc-240",
+    "name": "CERN, Geneva",
+    "lat": 46.234,
+    "lng": 6.053,
+    "country": "Switzerland",
+    "region": "Geneva",
+    "historicalTerritory": "Switzerland",
+    "eventIds": [
+      "wd-www"
+    ]
+  },
+  {
+    "id": "loc-241",
+    "name": "Pretoria",
+    "lat": -25.746,
+    "lng": 28.188,
+    "country": "South Africa",
+    "region": "Gauteng",
+    "historicalTerritory": "South Africa",
+    "eventIds": [
+      "wd-mandela"
+    ]
+  },
+  {
+    "id": "loc-242",
+    "name": "World Trade Center, New York",
+    "lat": 40.711,
+    "lng": -74.013,
+    "country": "USA",
+    "region": "New York",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-911"
+    ]
+  },
+  {
+    "id": "loc-243",
+    "name": "Bethesda (NIH)",
+    "lat": 39,
+    "lng": -77.1,
+    "country": "USA",
+    "region": "Maryland",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-genome"
+    ]
+  },
+  {
+    "id": "loc-244",
+    "name": "Cupertino",
+    "lat": 37.33,
+    "lng": -122.03,
+    "country": "USA",
+    "region": "California",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-social-media"
+    ]
+  },
+  {
+    "id": "loc-245",
+    "name": "Menlo Park",
+    "lat": 37.48,
+    "lng": -122.15,
+    "country": "USA",
+    "region": "California",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-social-media"
+    ]
+  },
+  {
+    "id": "loc-246",
+    "name": "Banda Aceh",
+    "lat": 5.55,
+    "lng": 95.32,
+    "country": "Indonesia",
+    "region": "Aceh",
+    "historicalTerritory": "Indonesia",
+    "eventIds": [
+      "wd-tsunami"
+    ]
+  },
+  {
+    "id": "loc-247",
+    "name": "Lehman Brothers, New York",
+    "lat": 40.76,
+    "lng": -73.983,
+    "country": "USA",
+    "region": "New York",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-financial-crisis"
+    ]
+  },
+  {
+    "id": "loc-248",
+    "name": "Sidi Bouzid",
+    "lat": 35.04,
+    "lng": 9.48,
+    "country": "Tunisia",
+    "region": "Sidi Bouzid",
+    "historicalTerritory": "Tunisia",
+    "eventIds": [
+      "wd-arab-spring"
+    ]
+  },
+  {
+    "id": "loc-249",
+    "name": "Tahrir Square, Cairo",
+    "lat": 30.044,
+    "lng": 31.236,
+    "country": "Egypt",
+    "region": "Cairo",
+    "historicalTerritory": "Egypt",
+    "eventIds": [
+      "wd-arab-spring"
+    ]
+  },
+  {
+    "id": "loc-250",
+    "name": "Paris (Le Bourget)",
+    "lat": 48.95,
+    "lng": 2.43,
+    "country": "France",
+    "region": "Île-de-France",
+    "historicalTerritory": "France",
+    "eventIds": [
+      "wd-paris"
+    ]
+  },
+  {
+    "id": "loc-251",
+    "name": "Seoul",
+    "lat": 37.566,
+    "lng": 126.978,
+    "country": "South Korea",
+    "region": "Seoul",
+    "historicalTerritory": "South Korea",
+    "eventIds": [
+      "wd-alphago"
+    ]
+  },
+  {
+    "id": "loc-252",
+    "name": "Mountain View",
+    "lat": 37.42,
+    "lng": -122.08,
+    "country": "USA",
+    "region": "California",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-transformer"
+    ]
+  },
+  {
+    "id": "loc-253",
+    "name": "Wuhan",
+    "lat": 30.593,
+    "lng": 114.305,
+    "country": "China",
+    "region": "Hubei",
+    "historicalTerritory": "China",
+    "eventIds": [
+      "wd-covid"
+    ]
+  },
+  {
+    "id": "loc-254",
+    "name": "Kyiv",
+    "lat": 50.45,
+    "lng": 30.52,
+    "country": "Ukraine",
+    "region": "Kyiv",
+    "historicalTerritory": "Ukraine",
+    "eventIds": [
+      "wd-ukraine"
+    ]
+  },
+  {
+    "id": "loc-255",
+    "name": "San Francisco",
+    "lat": 37.774,
+    "lng": -122.419,
+    "country": "USA",
+    "region": "California",
+    "historicalTerritory": "United States",
+    "eventIds": [
+      "wd-chatgpt"
+    ]
+  },
+  {
+    "id": "loc-256",
+    "name": "Satish Dhawan Space Centre",
+    "lat": 13.72,
+    "lng": 80.23,
+    "country": "India",
+    "region": "Andhra Pradesh",
+    "historicalTerritory": "India",
+    "eventIds": [
+      "wd-chandrayaan"
+    ]
+  }
+]

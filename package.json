@@ -1,0 +1,19 @@
+{
+  "name": "history-bioscope",
+  "version": "1.0.0",
+  "private": true,
+  "description": "History Bioscope – Interactive Historical Timeline & Geo-Visualization Platform",
+  "scripts": {
+    "setup": "npm install && npm --prefix backend install && npm --prefix frontend install",
+    "dev": "concurrently -n api,web -c blue,cyan \"npm --prefix backend run dev\" \"npm --prefix frontend run dev\"",
+    "dev:api": "npm --prefix backend run dev",
+    "dev:web": "npm --prefix frontend run dev",
+    "build": "npm --prefix backend run build && npm --prefix frontend run build",
+    "start": "concurrently -n api,web -c blue,cyan \"npm --prefix backend run start:prod\" \"npm --prefix frontend run start\"",
+    "seed": "node scripts/build-seed.mjs && npm --prefix frontend run sync-seed",
+    "reset-data": "npm --prefix backend run reset-data"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

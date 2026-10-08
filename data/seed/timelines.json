@@ -1,0 +1,50 @@
+[
+  {
+    "id": "bangladesh",
+    "name": "Bangladesh History",
+    "nameBn": "বাংলাদেশের ইতিহাস",
+    "color": "#1d4ed8",
+    "description": "From ancient Pundranagara and the Pala Empire to the Liberation War and modern Bangladesh.",
+    "eras": [
+      "Ancient Bengal",
+      "Medieval Bengal",
+      "Mughal Bengal",
+      "Colonial Bengal",
+      "Pakistan Period",
+      "Bangladesh Liberation",
+      "Modern Bangladesh"
+    ]
+  },
+  {
+    "id": "islamic",
+    "name": "Islamic History",
+    "nameBn": "ইসলামের ইতিহাস",
+    "color": "#0f766e",
+    "description": "The 25 Prophets named in the Quran, the Seerah, the caliphates, the Golden Age and the modern Muslim world.",
+    "eras": [
+      "Prophets",
+      "Seerah",
+      "Rashidun Caliphate",
+      "Umayyad Caliphate",
+      "Abbasid Caliphate",
+      "Islamic Golden Age",
+      "Later Empires",
+      "Modern Era"
+    ]
+  },
+  {
+    "id": "world",
+    "name": "World History",
+    "nameBn": "বিশ্ব ইতিহাস",
+    "color": "#7c3aed",
+    "description": "Ancient civilisations, medieval empires, two world wars, the Cold War and the AI revolution.",
+    "eras": [
+      "Ancient World",
+      "Medieval World",
+      "Early Modern",
+      "1900–1950",
+      "1950–2000",
+      "2000–Present"
+    ]
+  }
+]

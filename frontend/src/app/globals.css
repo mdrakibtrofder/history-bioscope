@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Hind+Siliguri:wght@500;600&family=Amiri:wght@400;700&display=swap');
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-bangla: 'Hind Siliguri', 'Plus Jakarta Sans', sans-serif;
+  --font-arabic: 'Amiri', serif;
+
+  /* Royal blue (primary) */
+  --color-royal-50: #eef3ff;
+  --color-royal-100: #dbe5ff;
+  --color-royal-200: #bccdff;
+  --color-royal-300: #8eaaff;
+  --color-royal-400: #5b7ef8;
+  --color-royal-500: #3557ef;
+  --color-royal-600: #1f3be0;
+  --color-royal-700: #1a2fc0;
+  --color-royal-800: #1b2b9b;
+  --color-royal-900: #1c2a7a;
+  --color-royal-950: #141a4a;
+
+  /* Sky blue (secondary) */
+  --color-sky2-50: #f0f9ff;
+  --color-sky2-100: #e0f2fe;
+  --color-sky2-200: #bae6fd;
+  --color-sky2-300: #7dd3fc;
+  --color-sky2-400: #38bdf8;
+  --color-sky2-500: #0ea5e9;
+
+  --color-ink: #0f1a3d;
+  --color-muted: #5b6785;
+  --color-line: #dfe7f7;
+
+  --color-tl-bangladesh: #1f3be0;
+  --color-tl-islamic: #0f766e;
+  --color-tl-world: #7c3aed;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-white text-ink antialiased;
+    font-family: var(--font-sans);
+    background-image: radial-gradient(1200px 500px at 85% -10%, #e3edff 0%, transparent 60%),
+      radial-gradient(900px 400px at -10% 10%, #eaf6ff 0%, transparent 55%);
+    background-attachment: fixed;
+  }
+  h1,
+  h2,
+  h3,
+  .font-display {
+    font-family: var(--font-display);
+    letter-spacing: -0.01em;
+  }
+  ::selection {
+    background: #c7d7ff;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-royal-500);
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply border border-white/70 bg-white/70 shadow-[0_8px_30px_rgba(31,59,224,0.08)] backdrop-blur-xl;
+  }
+  .glass-strong {
+    @apply border border-royal-100 bg-white/90 shadow-[0_10px_40px_rgba(31,59,224,0.12)] backdrop-blur-xl;
+  }
+  .hero-gradient {
+    background: linear-gradient(135deg, #1a2fc0 0%, #1f3be0 35%, #3b82f6 70%, #38bdf8 100%);
+  }
+  .soft-gradient {
+    background: linear-gradient(180deg, #f5f8ff 0%, #ffffff 100%);
+  }
+  .text-gradient {
+    background: linear-gradient(90deg, #1a2fc0, #3b82f6 55%, #0ea5e9);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .grid-pattern {
+    background-image: linear-gradient(rgba(31, 59, 224, 0.06) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(31, 59, 224, 0.06) 1px, transparent 1px);
+    background-size: 32px 32px;
+  }
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: #bccdff transparent;
+  }
+}
+
+/* Animated historical routes on the map */
+.route-animated {
+  stroke-dasharray: 10 14;
+  animation: route-dash 1.6s linear infinite;
+}
+@keyframes route-dash {
+  to {
+    stroke-dashoffset: -48;
+  }
+}
+.route-draw {
+  stroke-dasharray: 4000;
+  stroke-dashoffset: 4000;
+  animation: route-draw 3.5s ease-out forwards;
+}
+@keyframes route-draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/* Historical / parchment base layer */
+.tiles-historical .leaflet-tile {
+  filter: sepia(0.75) saturate(0.85) hue-rotate(-8deg) brightness(1.02) contrast(0.95);
+}
+
+.leaflet-container {
+  font-family: var(--font-sans);
+  background: #eaf2ff;
+}
+.leaflet-popup-content-wrapper {
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(20, 26, 74, 0.18);
+}
+.leaflet-popup-content {
+  margin: 12px 14px;
+}
+
+.pulse-ring {
+  animation: pulse-ring 2s ease-out infinite;
+}
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.6);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(2.2);
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .route-animated,
+  .route-draw,
+  .pulse-ring {
+    animation: none;
+  }
+}
+
+/* React Flow tweaks */
+.react-flow__attribution {
+  font-size: 9px;
+}
